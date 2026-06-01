@@ -1,57 +1,165 @@
-# 🐍 Snake King - Snake Game in C++
 
-A simple console-based Snake Game built using C++. The player controls the snake using keyboard keys, collects fruits to increase the score, and the game ends when the snake collides with its own body.
+<h1 align="center">🐍 Snake King - Snake Game in C++</h1>
 
-## 🚀 Features
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Classic+Snake+Game+in+C%2B%2B;Console-Based+Game+Development;Real-Time+Movement+and+Collision+Detection;Eat+Fruit+%7C+Grow+Snake+%7C+Score+Points" />
+</p>
 
-- Console-based interactive gameplay
-- Real-time snake movement
-- Keyboard controls using `W`, `A`, `S`, `D`
-- Random fruit generation
-- Score tracking system
-- Snake tail growth after eating fruit
-- Self-collision detection
-- Wall wrap-around movement
-- Game-over screen with final score
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Platform-Windows-success?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
+## 📖 About The Project
+
+Snake King is a console-based implementation of the classic Snake Game developed using C++. The player controls a snake that moves around the board, collects fruits, increases its score, and grows longer with each fruit consumed. The game ends when the snake collides with its own tail.
+
+This project was built to strengthen programming fundamentals, problem-solving skills, and understanding of game logic implementation using C++.
+
+---
+
+## 🎮 Features
+
+✅ Real-time snake movement
+
+✅ Keyboard controls using W, A, S, D
+
+✅ Dynamic fruit generation
+
+✅ Score tracking system
+
+✅ Snake tail growth mechanism
+
+✅ Self-collision detection
+
+✅ Wall wrap-around functionality
+
+✅ Game Over screen with final score
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,windows" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Console%20Application-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Logic-FF6F00?style=for-the-badge&logo=gamemaker&logoColor=white" />
 </p>
 
-## 🎮 Controls
+---
+
+## 🎯 Controls
 
 | Key | Action |
-|---|---|
-| `W` | Move Up |
-| `A` | Move Left |
-| `S` | Move Down |
-| `D` | Move Right |
+|------|--------|
+| W | Move Up |
+| A | Move Left |
+| S | Move Down |
+| D | Move Right |
 
-## 📚 Concepts Used
+---
 
-- C++ Functions
-- Loops and Conditional Statements
-- Arrays for snake tail tracking
-- Enum for direction handling
-- Real-time keyboard input using `_kbhit()` and `getch()`
-- Console screen clearing using `system("cls")`
-- Game loop implementation
-- Collision detection
-- Random fruit generation
-- Score tracking
+## 🧠 Concepts Implemented
 
-## 🧠 How It Works
+- Functions
+- Arrays
+- Loops
+- Conditional Statements
+- Enumerations (Enum)
+- Game Loop Logic
+- Collision Detection
+- Random Number Generation
+- Real-Time Keyboard Input
+- Score Management
+- Dynamic Tail Tracking
 
-- The snake starts from the center of the console board.
-- A fruit is generated at a random position.
-- The player controls the snake using `W`, `A`, `S`, and `D`.
-- When the snake eats the fruit, the score increases by 10.
-- The snake's tail length increases after eating fruit.
-- The game ends when the snake collides with its own body.
-- If the snake touches the wall, it appears from the opposite side.
+---
+
+## ⚙️ How It Works
+
+1. The snake starts from the center of the board.
+2. Fruits appear randomly on the screen.
+3. The player controls the snake using keyboard inputs.
+4. Eating a fruit increases the score and snake length.
+5. The snake wraps around when touching boundaries.
+6. The game ends when the snake collides with its own tail.
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/snakegame_cpp.git
+````
+
+### Compile
+
+```bash
+g++ snake.cpp -o snake
+```
+
+### Run
+
+```bash
+./snake
+```
+
+> Note: This project uses `Windows.h` and `conio.h`, making it suitable for Windows environments.
+
+---
+
+## 📂 Project Structure
+
+```text
+snakegame_cpp/
+│
+├── snake.cpp
+└── README.md
+```
+
+---
+
+## 📈 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Building interactive console applications
+* Implementing game loops
+* Handling user input in real time
+* Designing collision detection systems
+* Managing game state and score tracking
+* Strengthening C++ programming fundamentals
+
+---
+
+## 🔮 Future Enhancements
+
+* Multiple difficulty levels
+* High score leaderboard
+* Pause and Resume functionality
+* Sound effects
+* Improved UI and graphics
+* Object-Oriented Programming (OOP) version
+* Cross-platform support
+
+---
+
+## 👩‍💻 Author
+
+### Namya Dutta
+
+
+⭐ If you found this project interesting, consider giving it a star!
+
+```
+```
+
 
