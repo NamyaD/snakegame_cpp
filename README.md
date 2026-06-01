@@ -94,27 +94,6 @@ This project was built to strengthen programming fundamentals, problem-solving s
 
 ## 🚀 Getting Started
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/snakegame_cpp.git
-````
-
-### Compile
-
-```bash
-g++ snake.cpp -o snake
-```
-
-### Run
-
-```bash
-./snake
-```
-
-> Note: This project uses `Windows.h` and `conio.h`, making it suitable for Windows environments.
-
----
 
 ## 📂 Project Structure
 
