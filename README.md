@@ -13,10 +13,10 @@ A console-based implementation of the classic Snake Game built using C++. This p
 
 ## 🛠️ Tech Stack
 
-- C++
-- Console Input/Output
-- Basic Data Structures
-- Functions and Loops
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Console Application](https://img.shields.io/badge/Console%20Application-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 🎮 Controls
 
