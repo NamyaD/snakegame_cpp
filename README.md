@@ -17,7 +17,7 @@
 
 Snake King is a console-based implementation of the classic Snake Game developed using C++. The player controls a snake that moves around the board, collects fruits, increases its score, and grows longer with each fruit consumed. The game ends when the snake collides with its own tail.
 
-This project was built to strengthen programming fundamentals, problem-solving skills, and understanding of game logic implementation using C++.
+
 
 ---
 
