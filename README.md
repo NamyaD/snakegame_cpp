@@ -27,8 +27,6 @@ Snake King is a console-based implementation of the classic Snake Game developed
 
 ✅ Keyboard controls using W, A, S, D
 
-✅ Dynamic fruit generation
-
 ✅ Score tracking system
 
 ✅ Snake tail growth mechanism
