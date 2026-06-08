@@ -113,7 +113,7 @@ Through this project, I gained practical experience in:
 * Handling user input in real time
 * Designing collision detection systems
 * Managing game state and score tracking
-* Strengthening C++ programming fundamentals
+* Strengthening C++ programming fundamental
 
 ---
 
