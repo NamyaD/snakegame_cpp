@@ -133,9 +133,6 @@ Through this project, I gained practical experience in:
 
 ### Namya Dutta
 
-
-⭐ If you found this project interesting, consider giving it a star!
-
 ```
 ```
 
