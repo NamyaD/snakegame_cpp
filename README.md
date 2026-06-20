@@ -31,8 +31,6 @@ Snake King is a console-based implementation of the classic Snake Game developed
 
 ✅ Snake tail growth mechanism
 
-✅ Self-collision detection
-
 ✅ Wall wrap-around functionality
 
 ✅ Game Over screen with final score
