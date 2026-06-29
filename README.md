@@ -23,7 +23,7 @@ Snake King is a console-based implementation of the classic Snake Game developed
 
 ## 🎮 Features
 
-✅ Real-time snake movement
+✅ Real-time snake
 
 ✅ Keyboard controls using W, A, S, D
 
