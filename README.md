@@ -21,7 +21,7 @@ Snake King is a console-based implementation of the classic Snake Game developed
 
 ---
 
-## 🎮 Features
+## 🎮 Features of the game
 
 ✅ Real-time snake
 
